@@ -5,8 +5,8 @@ black
 black[jupyter]
 datasets
 fire
-git+https://github.com/huggingface/peft.git
-git+https://github.com/huggingface/transformers.git
+peft
+transformers
 gradio
 sentencepiece
 wandb
