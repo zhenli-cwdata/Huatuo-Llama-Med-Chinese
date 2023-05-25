@@ -6,7 +6,7 @@ black[jupyter]
 datasets
 fire
 peft
-transformers
+transformers[torch]
 gradio
 sentencepiece
 wandb
